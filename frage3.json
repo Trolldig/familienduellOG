@@ -1,0 +1,37 @@
+{
+    "Frage": "Nennen Sie etwas, dass man im Home Office macht.",
+    "Antworten": [
+      {
+        "ID": 1,
+        "Antwort": "Wäsche",
+        "Anzahl": 33
+      },
+      {
+        "ID": 2,
+        "Antwort": "Schlafen",
+        "Anzahl": 23
+      },
+      {
+        "ID": 3,
+        "Antwort": "Arbeiten",
+        "Anzahl": 19
+      },
+      {
+        "ID": 4,
+        "Antwort": "Bequeme/Keine Hosen tragen",
+        "Anzahl": 9
+      },
+      {
+        "ID": 5,
+        "Antwort": "Essen",
+        "Anzahl": 9
+      },
+      {
+        "ID": 6,
+        "Antwort": "Spielen",
+        "Anzahl": 7
+      }
+    ],
+    "HonorableMentions": "Onanieren"
+  }
+  

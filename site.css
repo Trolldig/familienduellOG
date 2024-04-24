@@ -1,0 +1,91 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+#meme {
+    border: 1px solid #808080;
+    padding: 2px;
+    margin: 8px;
+    border-radius: 25px;
+    max-width: 300px;
+}
+
+/* Frage und Antworten */
+#question {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.answerDiv {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex; /* Flexbox-Layout verwenden */
+    align-items: center; /* Zentriert die Elemente vertikal */
+}
+
+.answerDiv button {
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #f0f0f0; /* Hellgraue Hintergrundfarbe */
+    color: #000000;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    flex: 0 0 90%; /* Button nimmt so viel Platz wie möglich ein */
+    margin-left: 10px; /* Abstand zwischen dem Button und dem nächsten Element */
+    margin-right: 10px; /* Abstand zwischen dem Button und dem nächsten Element */
+}
+
+.answerDiv button.clicked {
+    background-color: #a0c9d6; /* Helle Blaufarbe für den Button nach dem Klicken */
+    color: #000000; /* Weiße Textfarbe für den Button nach dem Klicken */
+}
+
+.answerDiv button:hover:not(.clicked) {
+    background-color: #b3d9e5; /* Helle Blaufarbe für den Button beim Hover */
+}
+
+#idSpan {
+    flex: 0 0 5%; /* Der vordere Span nimmt 5% Breite ein */
+}
+
+.countSpan {
+    font-size: 16px;
+    flex: 0 0 5%; /* Der hintere Span nimmt 10% Breite ein */
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}

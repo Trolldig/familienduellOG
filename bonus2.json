@@ -1,0 +1,37 @@
+{
+    "Frage": "Nennen Sie ein Land, welches schlecht für eine Workation geeignet ist.",
+    "Antworten": [
+      {
+        "ID": 1,
+        "Antwort": "Nordkorea",
+        "Anzahl": 37
+      },
+      {
+        "ID": 2,
+        "Antwort": "Deutschland",
+        "Anzahl": 26
+      },
+      {
+        "ID": 3,
+        "Antwort": "Russland",
+        "Anzahl": 16
+      },
+      {
+        "ID": 4,
+        "Antwort": "Afghanistan",
+        "Anzahl": 7
+      },
+      {
+        "ID": 5,
+        "Antwort": "China",
+        "Anzahl": 7
+      },
+      {
+        "ID": 6,
+        "Antwort": "Spanien",
+        "Anzahl": 7
+      }
+    ],
+    "HonorableMentions": "Alaska | Saarland | Jedes Land mit Bombenwetter, schlechtem Internet und wo die Arbeitskollegen bei sind"
+  }
+  

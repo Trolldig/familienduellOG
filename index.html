@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <title>Familienduell - IT-Edition</title>
+    <link rel="stylesheet" href="site.css" />
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <img id="meme" src="/img/babiel_events_familienduell_square.png" alt="Aber natürlich kann ich das für dich tun." />
+            <h1 id="siteName">Familienduell - IT-Edition</h1>
+        </header>
+
+        <main>
+            <select id="jsonSelect">
+                <option value="intro.json">Intro</option>
+                <option value="frage1.json">Frage 1</option>
+                <option value="frage2.json">Frage 2</option>
+                <option value="frage3.json">Frage 3</option>
+                <option value="frage4.json">Frage 4</option>
+                <option value="frage5.json">Frage 5</option>
+                <option value="frage6.json">Frage 6</option>
+                <option value="bonus1.json">Bonus 1</option>
+                <option value="bonus2.json">Bonus 2</option>
+                <option value="bonus3.json">Bonus 3</option>
+                <option value="bonus4.json">Bonus 4</option>
+                <option value="bonus5.json">Bonus 5</option>
+                <!-- Weitere Optionen nach Bedarf -->
+              </select>
+            <div id="error"></div>
+            <div id="question"></div>
+            <div id="answers"></div>
+            <div id="honorableMention"></div>
+        </main>
+
+        <footer>
+            &copy;2024 Copyright - Matthias Klipfel
+        </footer>
+    </div>
+    <script src="index.js">
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+{
+    "Frage": "Nennen Sie einen IT-Konzern.",
+    "Antworten": [
+      {
+        "ID": 1,
+        "Antwort": "Microsoft",
+        "Anzahl": 41
+      },
+      {
+        "ID": 2,
+        "Antwort": "SAP",
+        "Anzahl": 25
+      },
+      {
+        "ID": 3,
+        "Antwort": "Google (Alphabet)",
+        "Anzahl": 13
+      },
+      {
+        "ID": 4,
+        "Antwort": "IBM",
+        "Anzahl": 11
+      },
+      {
+        "ID": 5,
+        "Antwort": "Meta",
+        "Anzahl": 6
+      },
+      {
+        "ID": 6,
+        "Antwort": "Apple",
+        "Anzahl": 4
+      }
+    ],
+    "HonorableMentions": ""
+  }
+  

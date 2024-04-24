@@ -1,0 +1,37 @@
+{
+    "Frage": "Nennen Sie eine Red Flag in einer Stellenausschreibung.",
+    "Antworten": [
+      {
+        "ID": 1,
+        "Antwort": "Obstkorb",
+        "Anzahl": 44
+      },
+      {
+        "ID": 2,
+        "Antwort": "Wird sind eine Familie",
+        "Anzahl": 18
+      },
+      {
+        "ID": 3,
+        "Antwort": "Vertrauens-/Flexible Arbeitszeiten",
+        "Anzahl": 15
+      },
+      {
+        "ID": 4,
+        "Antwort": "Kostenlose Getränke",
+        "Anzahl": 10
+      },
+      {
+        "ID": 5,
+        "Antwort": "Flexibles Gehalt",
+        "Anzahl": 8
+      },
+      {
+        "ID": 6,
+        "Antwort": "Tischkicker",
+        "Anzahl": 5
+      }
+    ],
+    "HonorableMentions": "Sie ist von Tesla"
+  }
+  

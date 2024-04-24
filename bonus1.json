@@ -1,0 +1,37 @@
+{
+    "Frage": "Nennen Sie ein Land, welches gut für eine Workation geeignet ist.",
+    "Antworten": [
+      {
+        "ID": 1,
+        "Antwort": "Spanien",
+        "Anzahl": 34
+      },
+      {
+        "ID": 2,
+        "Antwort": "Portugal",
+        "Anzahl": 27
+      },
+      {
+        "ID": 3,
+        "Antwort": "Schweden",
+        "Anzahl": 12
+      },
+      {
+        "ID": 4,
+        "Antwort": "Indonesien (Bali)",
+        "Anzahl": 9
+      },
+      {
+        "ID": 5,
+        "Antwort": "Japan",
+        "Anzahl": 9
+      },
+      {
+        "ID": 6,
+        "Antwort": "Schweiz",
+        "Anzahl": 9
+      }
+    ],
+    "HonorableMentions": "Baden-Württemberg"
+  }
+  

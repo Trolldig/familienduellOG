@@ -1,0 +1,37 @@
+{
+    "Frage": "Nennen Sie eine Programmiersprache.",
+    "Antworten": [
+      {
+        "ID": 1,
+        "Antwort": "C++",
+        "Anzahl": 26
+      },
+      {
+        "ID": 2,
+        "Antwort": "Java",
+        "Anzahl": 26
+      },
+      {
+        "ID": 3,
+        "Antwort": "Python",
+        "Anzahl": 26
+      },
+      {
+        "ID": 4,
+        "Antwort": "C",
+        "Anzahl": 11
+      },
+      {
+        "ID": 5,
+        "Antwort": "C#",
+        "Anzahl": 7
+      },
+      {
+        "ID": 6,
+        "Antwort": "Pascal",
+        "Anzahl": 4
+      }
+    ],
+    "HonorableMentions": "Julia"
+  }
+  

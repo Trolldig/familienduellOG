@@ -1,0 +1,37 @@
+{
+    "Frage": "Nennen Sie eine Job-Bezeichnung im IT-Bereich.",
+    "Antworten": [
+      {
+        "ID": 1,
+        "Antwort": "Software Engineer",
+        "Anzahl": 44
+      },
+      {
+        "ID": 2,
+        "Antwort": "Administrator",
+        "Anzahl": 31
+      },
+      {
+        "ID": 3,
+        "Antwort": "IT-Consultant",
+        "Anzahl": 9
+      },
+      {
+        "ID": 4,
+        "Antwort": "IT-Support",
+        "Anzahl": 6
+      },
+      {
+        "ID": 5,
+        "Antwort": "Software Tester",
+        "Anzahl": 6
+      },
+      {
+        "ID": 6,
+        "Antwort": "Product Owner",
+        "Anzahl": 4
+      }
+    ],
+    "HonorableMentions": ""
+  }
+  

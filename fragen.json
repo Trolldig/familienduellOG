@@ -1,0 +1,79 @@
+{
+    "Fragen": [
+      {
+        "Frage": "Nennen Sie einen Satz, welcher während eines Videomeetings fällt.",
+        "ID": 1,
+        "Antworten": [
+          {
+            "ID": 1,
+            "Antwort": "Hört man mich?",
+            "Anzahl": 47
+          },
+          {
+            "ID": 2,
+            "Antwort": "Du bist stumm.",
+            "Anzahl": 21
+          },
+          {
+            "ID": 3,
+            "Antwort": "Seht ihr meinen Bildschirm?",
+            "Anzahl": 14
+          },
+          {
+            "ID": 4,
+            "Antwort": "Ich sehe nichts.",
+            "Anzahl": 7
+          },
+          {
+            "ID": 5,
+            "Antwort": "Sieht man mich?",
+            "Anzahl": 7
+          },
+          {
+            "ID": 6,
+            "Antwort": "Deine Kamera ist aus.",
+            "Anzahl": 4
+          }
+        ],
+        "HonorableMentions": "Kein Augenkontakt bei der Nutzung der Luftpumpe!"
+      },
+      {
+        "Frage": "Nennen Sie etwas, dass man während eines Video-Meetings macht.",
+        "ID": 2,
+        "Antworten": [
+          {
+            "ID": 1,
+            "Antwort": "Second Screen (Handy, Zocken, Videos, Social Media, Nachrichten, Chatten, Mails)",
+            "Anzahl": 43
+          },
+          {
+            "ID": 2,
+            "Antwort": "Abschalten (In der Nase poppeln)",
+            "Anzahl": 15
+          },
+          {
+            "ID": 3,
+            "Antwort": "Reden",
+            "Anzahl": 13
+          },
+          {
+            "ID": 4,
+            "Antwort": "Essen",
+            "Anzahl": 11
+          },
+          {
+            "ID": 5,
+            "Antwort": "Kaffee trinken",
+            "Anzahl": 11
+          },
+          {
+            "ID": 6,
+            "Antwort": "Wäsche",
+            "Anzahl": 7
+          }
+        ],
+        "HonorableMentions": "Schreien (muted) | Onanieren"
+      }
+    ]
+  }
+  

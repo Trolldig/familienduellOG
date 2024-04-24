@@ -1,0 +1,37 @@
+{
+    "Frage": "Nennen Sie etwas, dass Sie mit dem Bundestag verbinden.",
+    "Antworten": [
+      {
+        "ID": 1,
+        "Antwort": "Berlin",
+        "Anzahl": 24
+      },
+      {
+        "ID": 2,
+        "Antwort": "Diskussionen / Debatten",
+        "Anzahl": 22
+      },
+      {
+        "ID": 3,
+        "Antwort": "Politik",
+        "Anzahl": 22
+      },
+      {
+        "ID": 4,
+        "Antwort": "Glaskuppel",
+        "Anzahl": 16
+      },
+      {
+        "ID": 5,
+        "Antwort": "Bundeskanzler",
+        "Anzahl": 8
+      },
+      {
+        "ID": 6,
+        "Antwort": "Adler",
+        "Anzahl": 8
+      }
+    ],
+    "HonorableMentions": "Angelo Merte"
+  }
+  

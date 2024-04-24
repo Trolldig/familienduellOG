@@ -1,0 +1,36 @@
+{
+  "Frage": "Nennen Sie einen Satz, welcher während eines Videomeetings fällt.",
+  "Antworten": [
+    {
+      "ID": 1,
+      "Antwort": "Hört man mich?",
+      "Anzahl": 47
+    },
+    {
+      "ID": 2,
+      "Antwort": "Du bist stumm.",
+      "Anzahl": 21
+    },
+    {
+      "ID": 3,
+      "Antwort": "Seht ihr meinen Bildschirm?",
+      "Anzahl": 14
+    },
+    {
+      "ID": 4,
+      "Antwort": "Ich sehe nichts.",
+      "Anzahl": 7
+    },
+    {
+      "ID": 5,
+      "Antwort": "Sieht man mich?",
+      "Anzahl": 7
+    },
+    {
+      "ID": 6,
+      "Antwort": "Deine Kamera ist aus.",
+      "Anzahl": 4
+    }
+  ],
+  "HonorableMentions": "Kein Augenkontakt bei der Nutzung der Luftpumpe!"
+}

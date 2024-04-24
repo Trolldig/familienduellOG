@@ -1,0 +1,37 @@
+{
+    "Frage": "Nennen Sie etwas, dass man während eines Video-Meetings macht.",
+    "Antworten": [
+      {
+        "ID": 1,
+        "Antwort": "Second Screen (Handy, Zocken, Videos, Social Media, Nachrichten, Chatten, Mails)",
+        "Anzahl": 43
+      },
+      {
+        "ID": 2,
+        "Antwort": "Abschalten (In der Nase poppeln)",
+        "Anzahl": 15
+      },
+      {
+        "ID": 3,
+        "Antwort": "Reden",
+        "Anzahl": 13
+      },
+      {
+        "ID": 4,
+        "Antwort": "Essen",
+        "Anzahl": 11
+      },
+      {
+        "ID": 5,
+        "Antwort": "Kaffee trinken",
+        "Anzahl": 11
+      },
+      {
+        "ID": 6,
+        "Antwort": "Wäsche",
+        "Anzahl": 7
+      }
+    ],
+    "HonorableMentions": "Schreien (muted) | Onanieren"
+  }
+  
